@@ -1,2 +1,1 @@
-# GTOMO
-Tomography inversion code GTOMO
+Global travel-time tomography based on ray theory
